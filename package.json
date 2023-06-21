@@ -15,7 +15,7 @@
   "dependencies": {
     "@nuxtjs/auth": "^4.8.1",
     "@nuxtjs/axios": "^5.5.4",
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.4.3",
     "vue-loader": "^15.7.1"
   },
   "devDependencies": {
